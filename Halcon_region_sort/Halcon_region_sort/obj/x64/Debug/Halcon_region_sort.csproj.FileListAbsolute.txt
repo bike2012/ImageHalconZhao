@@ -1,0 +1,75 @@
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\Halcon_region_sort.exe
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\Halcon_region_sort.pdb
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\halcondotnet.dll
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\halcondotnet.xml
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.halcon_form.resources
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.HALCON_SORT.resources
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.Properties.Resources.resources
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.csproj.GenerateResource.Cache
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.exe
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.pdb
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.exe
+D:\Projects\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.pdb
+D:\Projects\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\Halcon_region_sort.exe
+D:\Projects\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\Halcon_region_sort.pdb
+D:\Projects\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\halcondotnet.xml
+D:\Projects\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.halcon_form.resources
+D:\Projects\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.HALCON_SORT.resources
+D:\Projects\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.Properties.Resources.resources
+D:\Projects\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.csproj.GenerateResource.Cache
+C:\Users\ZJB\Desktop\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.exe
+C:\Users\ZJB\Desktop\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.pdb
+C:\Users\ZJB\Desktop\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\ZJB\Desktop\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.halcon_form.resources
+C:\Users\ZJB\Desktop\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.HALCON_SORT.resources
+C:\Users\ZJB\Desktop\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.Properties.Resources.resources
+C:\Users\ZJB\Desktop\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\ZJB\Desktop\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\ZJB\Documents\Visual Studio 2010\Projects\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.exe
+C:\Users\ZJB\Documents\Visual Studio 2010\Projects\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.pdb
+C:\Users\ZJB\Documents\Visual Studio 2010\Projects\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\ZJB\Documents\Visual Studio 2010\Projects\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.halcon_form.resources
+C:\Users\ZJB\Documents\Visual Studio 2010\Projects\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.HALCON_SORT.resources
+C:\Users\ZJB\Documents\Visual Studio 2010\Projects\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.Properties.Resources.resources
+C:\Users\ZJB\Documents\Visual Studio 2010\Projects\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\ZJB\Documents\Visual Studio 2010\Projects\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\ZJB\Documents\Visual Studio 2010\Projects\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\Halcon_region_sort.exe
+C:\Users\ZJB\Documents\Visual Studio 2010\Projects\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\Halcon_region_sort.pdb
+C:\Users\ZJB\Documents\Visual Studio 2010\Projects\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\halcondotnet.xml
+C:\Users\ZJB\Documents\Visual Studio 2010\Projects\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.HALCON_BIAO.resources
+G:\文档\Visual Studio 2010\Projects\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.exe
+G:\文档\Visual Studio 2010\Projects\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.pdb
+G:\文档\Visual Studio 2010\Projects\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\Halcon_region_sort.exe
+G:\文档\Visual Studio 2010\Projects\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\Halcon_region_sort.pdb
+G:\文档\Visual Studio 2010\Projects\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\halcondotnet.xml
+G:\文档\Visual Studio 2010\Projects\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.csprojResolveAssemblyReference.cache
+G:\文档\Visual Studio 2010\Projects\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.halcon_form.resources
+G:\文档\Visual Studio 2010\Projects\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.HALCON_BIAO.resources
+G:\文档\Visual Studio 2010\Projects\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.HALCON_SORT.resources
+G:\文档\Visual Studio 2010\Projects\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.Properties.Resources.resources
+G:\文档\Visual Studio 2010\Projects\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.csproj.GenerateResource.Cache
+D:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.exe
+D:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.pdb
+D:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\Halcon_region_sort.exe
+D:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\Halcon_region_sort.pdb
+D:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\halcondotnet.xml
+D:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.halcon_form.resources
+D:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.HALCON_BIAO.resources
+D:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.HALCON_SORT.resources
+D:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.Properties.Resources.resources
+D:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.csproj.GenerateResource.Cache
+F:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.exe
+F:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.pdb
+F:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\Halcon_region_sort.exe
+F:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\Halcon_region_sort.pdb
+F:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\bin\x64\Debug\halcondotnet.xml
+F:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.csprojResolveAssemblyReference.cache
+F:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.halcon_form.resources
+F:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.HALCON_BIAO.resources
+F:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.HALCON_SORT.resources
+F:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.Properties.Resources.resources
+F:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.csproj.GenerateResource.Cache
+F:\Projects\C#\Halcon_region_sort_1\Halcon_region_sort\Halcon_region_sort\obj\x64\Debug\Halcon_region_sort.EXCEL_out.resources

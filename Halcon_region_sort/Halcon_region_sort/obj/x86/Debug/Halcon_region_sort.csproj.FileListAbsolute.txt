@@ -1,0 +1,10 @@
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\bin\Debug\Halcon_region_sort.exe
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\bin\Debug\Halcon_region_sort.pdb
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\bin\Debug\halcondotnet.dll
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\bin\Debug\halcondotnet.xml
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x86\Debug\Halcon_region_sort.HALCON_SORT.resources
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x86\Debug\Halcon_region_sort.Properties.Resources.resources
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x86\Debug\Halcon_region_sort.csproj.GenerateResource.Cache
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x86\Debug\Halcon_region_sort.exe
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x86\Debug\Halcon_region_sort.pdb
+E:\WORKS\C#\Halcon_region_sort\Halcon_region_sort\Halcon_region_sort\obj\x86\Debug\Halcon_region_sort.halcon_form.resources
